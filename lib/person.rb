@@ -5,6 +5,5 @@ class Person
 
   hash = {:name, :birthday, :hair_color, :eye_color, :height,
   :weight, :handed, :complexion, :t_shirt_size,
-  :wrist_size, :glove_size, :pant_length, :pant_widt
-  }
+  :wrist_size, :glove_size, :pant_length, :pant_widt}
 end
